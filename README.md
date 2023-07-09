@@ -5,4 +5,4 @@ Trabalhos Final da disciplina de Arquitetura de computadores(CI1212) pelo curso 
 
 O arquivo principal do projeto pode ser aberto utilizando a ferramenta [Logisim](https://github.com/logisim-evolution/logisim-evolution).
 
-Período original em que o projeto foi feito: 01/2019
+Período original em que o projeto foi feito: 1° Sem. 2019
